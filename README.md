@@ -1,0 +1,1 @@
+# quicklog.js.org
